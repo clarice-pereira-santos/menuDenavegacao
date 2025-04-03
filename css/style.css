@@ -11,7 +11,7 @@ ul{
     justify-content: center;
     height: 60px;
     background-color: deeppink;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid rgb(21, 188, 193);
 }
 
 li{
@@ -20,4 +20,9 @@ li{
 a{
     text-decoration: none;
 color: #33976f;
+}
+
+
+a:hover{
+    border-bottom: 2px solid rgb(232, 194, 28);
 }
